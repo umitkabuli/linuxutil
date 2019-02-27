@@ -25,4 +25,3 @@ getcodename()
   lsb_release -c|awk '{print $2}'
 }
 
-
